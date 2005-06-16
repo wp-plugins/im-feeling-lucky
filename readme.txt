@@ -6,7 +6,11 @@ The I'm feeling Lucky plugin puts in links to Google's top hit for text that you
 
 == Installation ==
 
-See http://dcostanet.net/wordpress/2005/06/09/im-feeling-lucky/
+1. Create a sub-directory in your plugins directory called lucky.
+2. Put the two php files in that directory.
+3. Go to the plugin page in the admin panel and activate the plugin.
+
+See http://dcostanet.net/wordpress/2005/06/09/im-feeling-lucky/ for more details. 
 
 == Frequently Asked Questions ==
 
