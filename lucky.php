@@ -5,7 +5,7 @@ Plugin URI: http://dcostanet.net/wordpress/2005/06/09/im-feeling-lucky/
 Description: This plugin creates a quicktag button which takes some text and creates a link to the first link in google's search
 Version: 1.0
 Author: Sameer D'Costa
-Author URI: http://dcostanet.net
+Author URI: http://dcostanet.net/wordpress
 
 This plugin is a simple modification of Owen Winkler's
 http://www.asymptomatic.net quicktag button template downloaded from
